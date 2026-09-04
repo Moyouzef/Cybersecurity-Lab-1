@@ -1,2 +1,2 @@
-# Cybersecurity-Lab-1
+# Cybersecurity-Lab-setup
 My fresh linux
